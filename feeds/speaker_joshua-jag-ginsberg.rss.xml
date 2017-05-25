@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 16 Sep 2014 00:00:00 +0000</lastBuildDate><item><title>A Nice Problem to Have: Django Under Heavy Load</title><link>http://pyvideo.org/djangocon-2014/a-nice-problem-to-have-django-under-heavy-load.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;&amp;quot;Don't prematurely optimize. Get your project to v1.0.&amp;quot; This is a mantra
+often repeated in the Djangoverse. But what happens after v1.0 launch
+when your awesome site is being crushed by traffic? Scaling Django under
+load means finding bottlenecks, leveraging new tools, and customizing
+code. This talk will show you how it's done.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FOPX/"&gt;http://amara.org/v/FOPX/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joshua "jag" Ginsberg</dc:creator><pubDate>Tue, 16 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-16:djangocon-2014/a-nice-problem-to-have-django-under-heavy-load.html</guid></item></channel></rss>

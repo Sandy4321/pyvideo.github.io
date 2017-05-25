@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_bruce-kroeze.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2009-09-10T00:00:00+00:00</updated><entry><title>Custom Signals for Uncoupled Design</title><link href="http://pyvideo.org/djangocon-2009/custom-signals-for-uncoupled-design.html" rel="alternate"></link><published>2009-09-10T00:00:00+00:00</published><updated>2009-09-10T00:00:00+00:00</updated><author><name>Bruce Kroeze</name></author><id>tag:pyvideo.org,2009-09-10:djangocon-2009/custom-signals-for-uncoupled-design.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Custom Signals for Uncoupled Design&lt;/p&gt;
+&lt;p&gt;Presented by Bruce Kroeze&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_julien-danjou.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-11-30T00:00:00+00:00</updated><entry><title>Hy, a Lisp on Python</title><link href="http://pyvideo.org/pycon-fr-2013/hy-a-lisp-on-python.html" rel="alternate"></link><published>2013-11-30T00:00:00+00:00</published><updated>2013-11-30T00:00:00+00:00</updated><author><name>Julien Danjou</name></author><id>tag:pyvideo.org,2013-11-30:pycon-fr-2013/hy-a-lisp-on-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Hy (&lt;a class="reference external" href="https://github.com/hylang/hy"&gt;https://github.com/hylang/hy&lt;/a&gt;) is an implementation of a Lisp
+language on top of Python. It The project has been started this year,
+and is making good progress, since a lot of code can already be
+executed. Compatibility with Python is one of its core attribute, and in
+this regard it follows the path that Clojure took with Java.&lt;/p&gt;
+&lt;p&gt;This talk will present you what Hy is, how it works internally
+(briefly), what you can accomplish with it, how to contribute, and
+obviously how to write code with it!&lt;/p&gt;
+</summary></entry></feed>

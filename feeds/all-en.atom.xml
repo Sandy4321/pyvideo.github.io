@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/all-en.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-21T00:00:00+00:00</updated><entry><title>[PyConLT'16] Dalius Dobravolskas: Python naudojimas fotografijoje</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-dalius-dobravolskas-python-naudojimas-fotografijoje.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Dalius Dobravolskas</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-dalius-dobravolskas-python-naudojimas-fotografijoje.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Dalius Dobravolskas: Python naudojimas fotografijoje&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Justas Sadzevičius: crossbar.io</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-justas-sadzevicius-crossbario.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Justas Sadzevičius</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-justas-sadzevicius-crossbario.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;crossbar.io - lengvasvorės komunikacijos serveriams, naršyklėms, mobiliems įrenginiams ir daiktų internetui&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Justas Trimailovas: Django Channels</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-justas-trimailovas-django-channels.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Justas Trimailovas</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-justas-trimailovas-django-channels.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Justas Trimailovas: Django Channels&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Laurynas Speičys: Python darbo vietos LT</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-laurynas-speicys-python-darbo-vietos-lt.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Laurynas Speičys</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-laurynas-speicys-python-darbo-vietos-lt.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Laurynas Speičys: Python darbo vietos LT&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Mantas Zimnickas: py.test</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-mantas-zimnickas-pytest.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Mantas Zimnickas</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-mantas-zimnickas-pytest.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Mantas Zimnickas: py.test&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Petras Zdanavičius: LISP interpretatorius su Python PLY</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-petras-zdanavicius-lisp-interpretatorius-su-python-ply.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Petras Zdanavičius</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-petras-zdanavicius-lisp-interpretatorius-su-python-ply.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Petras Zdanavičius: LISP interpretatorius su Python PLY&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Rokas Aleksiūnas: Python mikroservisuose</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-rokas-aleksiunas-python-mikroservisuose.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Rokas Aleksiūnas</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-rokas-aleksiunas-python-mikroservisuose.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Rokas Aleksiūnas: Python mikroservisuose&lt;/p&gt;
+</summary></entry><entry><title>[PyConLT'16] Tomas Mikelskas: Duomenų denormalizavimas Django projektuose panaudojant DB trigerius</title><link href="http://pyvideo.org/pycon-lt-2016/pyconlt16-tomas-mikelskas-duomenu-denormalizavimas-django-projektuose-panaudojant-db-trigerius.html" rel="alternate"></link><published>2016-05-07T00:00:00+00:00</published><updated>2016-05-07T00:00:00+00:00</updated><author><name>Tomas Mikelskas</name></author><id>tag:pyvideo.org,2016-05-07:pycon-lt-2016/pyconlt16-tomas-mikelskas-duomenu-denormalizavimas-django-projektuose-panaudojant-db-trigerius.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[PyConLT'16] Tomas Mikelskas: Duomenų denormalizavimas Django projektuose panaudojant DB trigerius&lt;/p&gt;
+</summary></entry><entry><title>A year with MongoDB | Armin Ronacher @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/a-year-with-mongodb-armin-ronacher-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Armin Ronacher</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/a-year-with-mongodb-armin-ronacher-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Behaviour driven design with PyTest | Oleg Pidsadnyi @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/behaviour-driven-design-with-pytest-oleg-pidsadnyi-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Oleg Pidsadnyi</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/behaviour-driven-design-with-pytest-oleg-pidsadnyi-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Fan/theme | Jan Jaap Driessen @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/fantheme-jan-jaap-driessen-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Jan-Jaap Driessen</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/fantheme-jan-jaap-driessen-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Keynote | Berco Beute @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/keynote-berco-beute-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Berco Beute</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/keynote-berco-beute-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Lean prototyping | Voys Prototyping @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/lean-prototyping-voys-prototyping-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Mark Vletter</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/lean-prototyping-voys-prototyping-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Python and Scala smoke the peace pipe | Alex Gonzalez @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/python-and-scala-smoke-the-peace-pipe-alex-gonzalez-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Alex Gonzalez</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/python-and-scala-smoke-the-peace-pipe-alex-gonzalez-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Re-inventing Python packaging &amp; testing (keynote) | Holger Krekel @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/re-inventing-python-packaging-testing-keynote-holger-krekel-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Holger Krekel</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/re-inventing-python-packaging-testing-keynote-holger-krekel-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Real Time discussion retrieval from Twitter | Dmitrijs Milajevs @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/real-time-discussion-retrieval-from-twitter-dmitrijs-milajevs-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Dmitrijs Milajevs</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/real-time-discussion-retrieval-from-twitter-dmitrijs-milajevs-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Reliable deployment of large Python applications | Peter Odding @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/reliable-deployment-of-large-python-applications-peter-odding-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Peter Odding</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/reliable-deployment-of-large-python-applications-peter-odding-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>REST API design | Berco Beute @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/rest-api-design-berco-beute-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Berco Beute</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/rest-api-design-berco-beute-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>What Python can learn from Haskell | Daniel &amp; Gideon @PyGrunn 2013</title><link href="http://pyvideo.org/pygrunn-2013/what-python-can-learn-from-haskell-daniel-gideon-pygrunn-2013.html" rel="alternate"></link><published>2013-05-10T00:00:00+00:00</published><updated>2013-05-10T00:00:00+00:00</updated><author><name>Daniel de Kok</name></author><id>tag:pyvideo.org,2013-05-10:pygrunn-2013/what-python-can-learn-from-haskell-daniel-gideon-pygrunn-2013.html</id><summary type="html"></summary></entry><entry><title>Google Python Class Day 2 Part 1</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-2-part-1.html" rel="alternate"></link><published>2010-03-02T00:00:00+00:00</published><updated>2010-03-02T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-02:google-python-class-circa-2010/google-python-class-day-2-part-1.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 2 Part 1:
+Regular Expressions.
+Including support materials and exercises.&lt;/p&gt;
+</summary></entry><entry><title>Google Python Class Day 2 Part 2</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-2-part-2.html" rel="alternate"></link><published>2010-03-02T00:00:00+00:00</published><updated>2010-03-02T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-02:google-python-class-circa-2010/google-python-class-day-2-part-2.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 2 Part 2:
+Utilities: OS and Commands.
+Including support materials and exercises.&lt;/p&gt;
+</summary></entry><entry><title>Google Python Class Day 2 Part 3</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-2-part-3.html" rel="alternate"></link><published>2010-03-02T00:00:00+00:00</published><updated>2010-03-02T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-02:google-python-class-circa-2010/google-python-class-day-2-part-3.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 2 Part 3:
+Utilities: URLs and HTTP, Exceptions.
+Includes support materials and exercises.&lt;/p&gt;
+</summary></entry><entry><title>Google Python Class Day 2 Part 4</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-2-part-4.html" rel="alternate"></link><published>2010-03-02T00:00:00+00:00</published><updated>2010-03-02T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-02:google-python-class-circa-2010/google-python-class-day-2-part-4.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 1 Part 1:
+Closing Thoughts.
+Including support materials and exercises.&lt;/p&gt;
+</summary></entry><entry><title>Google Python Class Day 1 Part 1</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-1-part-1.html" rel="alternate"></link><published>2010-03-01T00:00:00+00:00</published><updated>2010-03-01T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-01:google-python-class-circa-2010/google-python-class-day-1-part-1.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 1 Part 1:
+Introduction and Strings.
+Including support materials and exercises!&lt;/p&gt;
+</summary></entry><entry><title>Google Python Class Day 1 Part 2</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-1-part-2.html" rel="alternate"></link><published>2010-03-01T00:00:00+00:00</published><updated>2010-03-01T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-01:google-python-class-circa-2010/google-python-class-day-1-part-2.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 1 Part 2:
+Lists, Sorting, and Tuples.
+Including support materials and exercises.&lt;/p&gt;
+</summary></entry><entry><title>Google Python Class Day 1 Part 3</title><link href="http://pyvideo.org/google-python-class-circa-2010/google-python-class-day-1-part-3.html" rel="alternate"></link><published>2010-03-01T00:00:00+00:00</published><updated>2010-03-01T00:00:00+00:00</updated><author><name>Nick Parlante</name></author><id>tag:pyvideo.org,2010-03-01:google-python-class-circa-2010/google-python-class-day-1-part-3.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Python Class Day 1 Part 3:
+Dicts and Files.&lt;/p&gt;
+</summary></entry><entry><title>Add intelligence to your python apps by Saurabh Kirtani 18:14</title><link href="http://pyvideo.org/pycon-india-2016/add-intelligence-to-your-python-apps-by-saurabh-kirtani-1814.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Saurabh Kirtani</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/add-intelligence-to-your-python-apps-by-saurabh-kirtani-1814.html</id><summary type="html"></summary></entry><entry><title>Add Machine learning to your Python apps by Gandhali Samant 21:00</title><link href="http://pyvideo.org/pycon-india-2016/add-machine-learning-to-your-python-apps-by-gandhali-samant-2100.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Gandhali Samant</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/add-machine-learning-to-your-python-apps-by-gandhali-samant-2100.html</id><summary type="html"></summary></entry><entry><title>Apache helix &amp; salt by Akhil 38:26</title><link href="http://pyvideo.org/pycon-india-2016/apache-helix-salt-by-akhil-3826.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Akhil</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/apache-helix-salt-by-akhil-3826.html</id><summary type="html"></summary></entry><entry><title>Big Data analysis using PySpark By Shagun Sodhani 44:17</title><link href="http://pyvideo.org/pycon-india-2016/big-data-analysis-using-pyspark-by-shagun-sodhani-4417.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Shagun Sodhani</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/big-data-analysis-using-pyspark-by-shagun-sodhani-4417.html</id><summary type="html"></summary></entry><entry><title>Building companion chatbot with python by Mimansa Jaiswal 36:42</title><link href="http://pyvideo.org/pycon-india-2016/building-companion-chatbot-with-python-by-mimansa-jaiswal-3642.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Mimansa Jaiswal</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/building-companion-chatbot-with-python-by-mimansa-jaiswal-3642.html</id><summary type="html"></summary></entry><entry><title>Bytecode hacks by Vijay Kumar B 5:36</title><link href="http://pyvideo.org/pycon-india-2016/bytecode-hacks-by-vijay-kumar-b-536.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Vijay Kumar B</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/bytecode-hacks-by-vijay-kumar-b-536.html</id><summary type="html"></summary></entry><entry><title>Coala by Udayan 6:43</title><link href="http://pyvideo.org/pycon-india-2016/coala-by-udayan-643.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Udayan</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/coala-by-udayan-643.html</id><summary type="html"></summary></entry><entry><title>Concurrency in Modern Robots by Shivam Vats 37:54</title><link href="http://pyvideo.org/pycon-india-2016/concurrency-in-modern-robots-by-shivam-vats-3754.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Shivam Vats</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/concurrency-in-modern-robots-by-shivam-vats-3754.html</id><summary type="html"></summary></entry><entry><title>Containarize upstream projects effortlessly by Bamacharan Kundu 35:43</title><link href="http://pyvideo.org/pycon-india-2016/containarize-upstream-projects-effortlessly-by-bamacharan-kundu-3543.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Bamacharan Kundu</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/containarize-upstream-projects-effortlessly-by-bamacharan-kundu-3543.html</id><summary type="html"></summary></entry><entry><title>contextual word embeddings for recomendor systems by Akhil Gupta 36:18</title><link href="http://pyvideo.org/pycon-india-2016/contextual-word-embeddings-for-recomendor-systems-by-akhil-gupta-3618.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Akhil Gupta</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/contextual-word-embeddings-for-recomendor-systems-by-akhil-gupta-3618.html</id><summary type="html"></summary></entry><entry><title>Continuous Integration for data scientists by Jaidev Deshpande 36:39</title><link href="http://pyvideo.org/pycon-india-2016/continuous-integration-for-data-scientists-by-jaidev-deshpande-3639.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Jaidev Deshpande</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/continuous-integration-for-data-scientists-by-jaidev-deshpande-3639.html</id><summary type="html"></summary></entry><entry><title>Deploying your python backend with almost zero cost by Srinivas Rangarajan 46:31</title><link href="http://pyvideo.org/pycon-india-2016/deploying-your-python-backend-with-almost-zero-cost-by-srinivas-rangarajan-4631.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Srinivas Rangarajan</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/deploying-your-python-backend-with-almost-zero-cost-by-srinivas-rangarajan-4631.html</id><summary type="html"></summary></entry><entry><title>Flying drone by Dinesh 33:09</title><link href="http://pyvideo.org/pycon-india-2016/flying-drone-by-dinesh-3309.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Dinesh</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/flying-drone-by-dinesh-3309.html</id><summary type="html"></summary></entry><entry><title>Good,Bye Call Stack by Anuth Srikumar 38:15</title><link href="http://pyvideo.org/pycon-india-2016/goodbye-call-stack-by-anuth-srikumar-3815.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Anuth Srikumar</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/goodbye-call-stack-by-anuth-srikumar-3815.html</id><summary type="html"></summary></entry><entry><title>Hacking the python AST by Suhas SG 50:22</title><link href="http://pyvideo.org/pycon-india-2016/hacking-the-python-ast-by-suhas-sg-5022.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Suhas SG</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/hacking-the-python-ast-by-suhas-sg-5022.html</id><summary type="html"></summary></entry><entry><title>Keynote:: Taking the most out of PyCon by Van Lindberg 45:07</title><link href="http://pyvideo.org/pycon-india-2016/keynote-taking-the-most-out-of-pycon-by-van-lindberg-4507.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Van Lindberg</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/keynote-taking-the-most-out-of-pycon-by-van-lindberg-4507.html</id><summary type="html"></summary></entry><entry><title>Keynote: The Post Modern Programmer by Bishampayan Ghose 50:08</title><link href="http://pyvideo.org/pycon-india-2016/keynote-the-post-modern-programmer-by-bishampayan-ghose-5008.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Bishampayan Ghose</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/keynote-the-post-modern-programmer-by-bishampayan-ghose-5008.html</id><summary type="html"></summary></entry><entry><title>load testing and locusts io by Vinay Babu 43:47</title><link href="http://pyvideo.org/pycon-india-2016/load-testing-and-locusts-io-by-vinay-babu-4347.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Vinay Babu</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/load-testing-and-locusts-io-by-vinay-babu-4347.html</id><summary type="html"></summary></entry><entry><title>Packaging your python app as Docker container images by Maninder Jit Bindra 23:59</title><link href="http://pyvideo.org/pycon-india-2016/packaging-your-python-app-as-docker-container-images-by-maninder-jit-bindra-2359.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Maninder Jit Bindra</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/packaging-your-python-app-as-docker-container-images-by-maninder-jit-bindra-2359.html</id><summary type="html"></summary></entry><entry><title>PyCharm - WebStorm Development by Paul Everit 36:12</title><link href="http://pyvideo.org/pycon-india-2016/pycharm-webstorm-development-by-paul-everit-3612.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Paul Everit</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/pycharm-webstorm-development-by-paul-everit-3612.html</id><summary type="html"></summary></entry><entry><title>PyDelhi Community by Anuvrat Prashar &amp; Saurabh Kumar 3:01</title><link href="http://pyvideo.org/pycon-india-2016/pydelhi-community-by-anuvrat-prashar-saurabh-kumar-301.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Anuvrat Prashar</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/pydelhi-community-by-anuvrat-prashar-saurabh-kumar-301.html</id><summary type="html"></summary></entry><entry><title>Python 3 dot 6 by Amit Kumar 4:46</title><link href="http://pyvideo.org/pycon-india-2016/python-3-dot-6-by-amit-kumar-446.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Amit Kumar</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/python-3-dot-6-by-amit-kumar-446.html</id><summary type="html"></summary></entry><entry><title>Python bindings to clusterfs by Prashant 4:36</title><link href="http://pyvideo.org/pycon-india-2016/python-bindings-to-clusterfs-by-prashant-436.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Prashant</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/python-bindings-to-clusterfs-by-prashant-436.html</id><summary type="html"></summary></entry><entry><title>Python in Redhat by Kushal Das 30:35</title><link href="http://pyvideo.org/pycon-india-2016/python-in-redhat-by-kushal-das-3035.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Kushal Das</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/python-in-redhat-by-kushal-das-3035.html</id><summary type="html"></summary></entry><entry><title>Python in universities by Chetan 4:03</title><link href="http://pyvideo.org/pycon-india-2016/python-in-universities-by-chetan-403.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Chetan</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/python-in-universities-by-chetan-403.html</id><summary type="html"></summary></entry><entry><title>Python on cloud Digital Ocean by Karan MV 20:31</title><link href="http://pyvideo.org/pycon-india-2016/python-on-cloud-digital-ocean-by-karan-mv-2031.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Karan MV</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/python-on-cloud-digital-ocean-by-karan-mv-2031.html</id><summary type="html"></summary></entry><entry><title>Python @ Scale in Go Ibibo By Dhruv 43:38</title><link href="http://pyvideo.org/pycon-india-2016/python-scale-in-go-ibibo-by-dhruv-4338.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Dhruv</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/python-scale-in-go-ibibo-by-dhruv-4338.html</id><summary type="html"></summary></entry><entry><title>Real time sentiments Analysis By Shaik Asifullah &amp; Preetam Purbia 34:36</title><link href="http://pyvideo.org/pycon-india-2016/real-time-sentiments-analysis-by-shaik-asifullah-preetam-purbia-3436.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Shaik Asifullah</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/real-time-sentiments-analysis-by-shaik-asifullah-preetam-purbia-3436.html</id><summary type="html"></summary></entry><entry><title>Realtime microservices with server side Flux by Ratandeep Debnath 51:16</title><link href="http://pyvideo.org/pycon-india-2016/realtime-microservices-with-server-side-flux-by-ratandeep-debnath-5116.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Ratandeep Debnath</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/realtime-microservices-with-server-side-flux-by-ratandeep-debnath-5116.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will introduce the concept of Flux, a unidirectional data flow pattern proposed by Facebook, to implement better client side web applications; and how we took this pattern to the server side to implement realtime, scalable microservices. This talk will take you through our adventurous journey in rewriting a monolithic Waartaa into several microservices and how we implemented:&lt;/p&gt;
+&lt;p&gt;Inter process communication
+Keeping services as stateless as possible
+Single source of truth
+Realtime publishers
+The end result of this venture is ircb, a scalable IRB bouncer for humans, written using Python 3 asyncio, and on top of homebrewed zeromq based store.&lt;/p&gt;
+&lt;p&gt;The talk will be organized as:&lt;/p&gt;
+&lt;p&gt;Setting the scene
+Why move to microservices?
+Managing state in microservices can be a nightmare?
+Server side Flux to the rescue
+Walk through IRCB architecture
+Demo - concepts in action
+Future
+Questions&lt;/p&gt;
+</summary></entry><entry><title>Scrapple by Alex Mathew 4:01</title><link href="http://pyvideo.org/pycon-india-2016/scrapple-by-alex-mathew-401.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Alex Mathew</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/scrapple-by-alex-mathew-401.html</id><summary type="html"></summary></entry><entry><title>secure iot platform using paho and flask by Jimon Jose 3:33 min</title><link href="http://pyvideo.org/pycon-india-2016/secure-iot-platform-using-paho-and-flask-by-jimon-jose-333-min.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Jimon Jose</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/secure-iot-platform-using-paho-and-flask-by-jimon-jose-333-min.html</id><summary type="html"></summary></entry><entry><title>Sympy Sym Engine Nishant Nikhil 3:36</title><link href="http://pyvideo.org/pycon-india-2016/sympy-sym-engine-nishant-nikhil-336.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Nishant Nikhil</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/sympy-sym-engine-nishant-nikhil-336.html</id><summary type="html"></summary></entry><entry><title>Testing Native binaries using cffi by Noufal Ibrahim 28:34</title><link href="http://pyvideo.org/pycon-india-2016/testing-native-binaries-using-cffi-by-noufal-ibrahim-2834.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Noufal Ibrahim</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/testing-native-binaries-using-cffi-by-noufal-ibrahim-2834.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;24-09-16&lt;/p&gt;
+</summary></entry><entry><title>Topic Modeling in Gensim by Devashish Deshpande 4:57</title><link href="http://pyvideo.org/pycon-india-2016/topic-modeling-in-gensim-by-devashish-deshpande-457.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Devashish Deshpande</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/topic-modeling-in-gensim-by-devashish-deshpande-457.html</id><summary type="html"></summary></entry><entry><title>Trends in licensesin Python ecosystem by Anwesha Das 38:47</title><link href="http://pyvideo.org/pycon-india-2016/trends-in-licensesin-python-ecosystem-by-anwesha-das-3847.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Anwesha Das</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/trends-in-licensesin-python-ecosystem-by-anwesha-das-3847.html</id><summary type="html"></summary></entry><entry><title>Word mover distance by Rishabh Goel 4:58</title><link href="http://pyvideo.org/pycon-india-2016/word-mover-distance-by-rishabh-goel-458.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Rishabh Goel</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/word-mover-distance-by-rishabh-goel-458.html</id><summary type="html"></summary></entry><entry><title>aiosmtpd - A better asyncio based SMTP server</title><link href="http://pyvideo.org/pycon-us-2017/aiosmtpd-a-better-asyncio-based-smtp-server.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Barry Warsaw</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/aiosmtpd-a-better-asyncio-based-smtp-server.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;smtpd.py has been in the standard library for many years. It's been a
+common tool for deploying SMTP and LMTP servers that handle email-based
+communication in Python, providing both basic protocol implementations
+and a fundamental module for higher level tools, such as lazr.smtptest
+for testing email clients. Based on asyncore and asynchat, smtpd.py is
+showing its age, and its API is unwieldy.&lt;/p&gt;
+&lt;p&gt;Fortunately, there's a new alternative available. aiosmtpd is a modern
+reinvention based on asyncio, with all the improvements that come along
+with such a new implementation. It provides servers for both the SMTP
+and LMTP protocols, as well as a higher level &amp;quot;controller&amp;quot; API for
+testing SMTP and LMTP clients. It exposes a much better API for
+customization, allowing the user to associate a simple &amp;quot;handler&amp;quot; to
+process incoming messages without having to worry about the details of
+the protocols, and it provides some useful hooks for subclassing.&lt;/p&gt;
+&lt;p&gt;This talk will describe the purpose and history of smtpd.py and
+aiosmtpd, show how users can extend the servers and implement
+specialized handlers, and show how applications can use the testing API
+for ensuring that their email sending applications do the right things.
+Examples will be taken from GNU Mailman 3, which uses aiosmtpd
+extensively.&lt;/p&gt;
+</summary></entry><entry><title>async/await and asyncio in Python 3.6 and beyond</title><link href="http://pyvideo.org/pycon-us-2017/asyncawait-and-asyncio-in-python-36-and-beyond.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Yury Selivanov</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/asyncawait-and-asyncio-in-python-36-and-beyond.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The talk overviews async/await, asynchronous generators and
+comprehensions in Python 3.6 and the asyncio module. We'll discuss when
+and how asyncio should be used in a modern applications and services,
+what is uvloop, and what asyncio frameworks and libraries one should
+use. I'll share our ideas about where asyncio is headed and what to
+expect in Python 3.7.&lt;/p&gt;
+</summary></entry><entry><title>Asynchronous Python for the Complete Beginner</title><link href="http://pyvideo.org/pycon-us-2017/asynchronous-python-for-the-complete-beginner.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Miguel Grinberg</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/asynchronous-python-for-the-complete-beginner.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;With the introduction of the asyncio package in Python 3.4, you can hear
+lots of people talking about asynchronous programming, most in a
+favorable way, some not so much. In this talk, I will tell you what this
+async fever is about and what can it do for you that regular Python
+can't, not only with asyncio, but also with other frameworks that
+existed long before it.&lt;/p&gt;
+</summary></entry><entry><title>Bayesian Statistical Analysis with Python</title><link href="http://pyvideo.org/pycon-us-2017/bayesian-statistical-analysis-with-python.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Eric J. Ma</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/bayesian-statistical-analysis-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You've got some data, and now you want to analyze it with Python. You're
+on your way to greatness! Now the problem comes: do I do the t-test?
+Chi-squared test? How do I decide? In this talk, inspired by many
+Pythonista Bayesians (&amp;#64;jakevdp, &amp;#64;allendowney, &amp;#64;twiecki, &amp;#64;fonnesbeck)
+before, I will show you how you can take common statistical decision
+problems, formulate them as a Bayesian analysis problem, and use PyMC3
+as your workhorse tool for gaining insights. This talk will be
+math-light and code-heavy, and if you download the slides, you'll have a
+simple template for more complex Bayesian analysis down the road!&lt;/p&gt;
+</summary></entry><entry><title>Building Stream Processing Applications</title><link href="http://pyvideo.org/pycon-us-2017/building-stream-processing-applications.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Amit Ramesh</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/building-stream-processing-applications.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Do you have a stream of data that you would like to process in real
+time? There are many components with Python APIs that you can put
+together to build a stream processing application. We will go through
+some common design patterns, tradeoffs and available components /
+frameworks for designing such systems. We will solve an example problem
+during the presentation to make these points concrete. Much of what will
+be presented is based on experience gained from building production
+pipelines for the real-time processing of ad streams at Yelp. This talk
+will cover topics such as consistency, availability, idempotency,
+scalability, etc.&lt;/p&gt;
+</summary></entry><entry><title>Final remarks and conference close</title><link href="http://pyvideo.org/pycon-us-2017/final-remarks-and-conference-close.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Brandon Rhodes</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/final-remarks-and-conference-close.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Final remarks and conference close&lt;/p&gt;
+</summary></entry><entry><title>Gothic Colors: Using Python to understand color in nineteenth-century literature</title><link href="http://pyvideo.org/pycon-us-2017/gothic-colors-using-python-to-understand-color-in-nineteenth-century-literature.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Eleanor Stribling</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/gothic-colors-using-python-to-understand-color-in-nineteenth-century-literature.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Do you love literature and programming? Have you ever been curious about
+what the heck “Digital Humanities” are? Join us for a quick survey of
+what’s going on in this growing field and learn about a specific
+project, “Gothic Colors” where we set out to enumerate and analyze color
+references and mood in 19th century Gothic novels, using Python and a
+couple of popular libraries.&lt;/p&gt;
+</summary></entry><entry><title>Hacking Cars with Python</title><link href="http://pyvideo.org/pycon-us-2017/hacking-cars-with-python.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Eric Evenchick</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/hacking-cars-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Modern cars are networks of computers, and a high end vehicle could have
+nearly 100 different computers inside. These devices control everything
+from the engine to the airbags. By understanding how these systems work,
+we can interface with vehicles to read data, perform diagnostics, and
+even modify operation.&lt;/p&gt;
+&lt;p&gt;In this talk, we'll discuss pyvit, the Python Vehicle Interface Toolkit.
+This library, combined with some open source hardware, allows developers
+to talk to automotive controllers from Python.&lt;/p&gt;
+&lt;p&gt;We will begin with an introduction to automotive networks, to provide a
+basis for understanding the tools. Next, we will look at the tools and
+show the basics of using them. Finally, we'll discuss real world
+applications of these tools, and how they're being used in the
+automotive world today.&lt;/p&gt;
+</summary></entry><entry><title>Hacking Classic Nintendo Games with Python</title><link href="http://pyvideo.org/pycon-us-2017/hacking-classic-nintendo-games-with-python.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Sam Agnew</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/hacking-classic-nintendo-games-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Do you feel like using your superpowers as a developer to bring the
+games of your childhood into the future with the power of the Internet?
+In this live coded journey, we'll build an SMS powered &amp;quot;Game Genie&amp;quot;
+allowing the audience to send text messages to manipulate the Nintendo
+games being played in real time. This will involve working with Flask,
+the Twilio API, the FCEUX NES emulator and how to bridge them with quick
+Lua scripts.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Kubernetes for Pythonistas</title><link href="http://pyvideo.org/pycon-us-2017/keynote-kubernetes-for-pythonistas.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Kelsey Hightower</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/keynote-kubernetes-for-pythonistas.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sunday afternoon keynote by Kelsey Hightower&lt;/p&gt;
+</summary></entry><entry><title>Lightning talks May 21th, 2017 Morning session</title><link href="http://pyvideo.org/pycon-us-2017/lightning-talks-may-21th-2017-morning-session.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Various speakers</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/lightning-talks-may-21th-2017-morning-session.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks May 21th, 2017 Morning session&lt;/p&gt;
+</summary></entry><entry><title>Look mum no hands! From blinking LEDs to a bike speedometer with MicroPython</title><link href="http://pyvideo.org/pycon-us-2017/look-mum-no-hands-from-blinking-leds-to-a-bike-speedometer-with-micropython.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Tim Head</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/look-mum-no-hands-from-blinking-leds-to-a-bike-speedometer-with-micropython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk I will show you how to use a micro-controller to build a
+wifi enabled speedometer for your bike, using MicroPython. And some
+hardware. And a bike (maybe). I will introduce you to the world of
+MicroPython: a python distribution that runs on micro-controllers.
+Micro-controllers are small computers that are all around us: in cars,
+TVs, and your internet connected fridge. We will start with making LEDs
+blink, then serve webpages, build an interrupt handler and finally put
+it all together to make a wifi enabled speedometer for a bike.&lt;/p&gt;
+</summary></entry><entry><title>One Data Pipeline to Rule Them All</title><link href="http://pyvideo.org/pycon-us-2017/one-data-pipeline-to-rule-them-all.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Sam Kitajima-Kimbrel</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/one-data-pipeline-to-rule-them-all.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There are myriad data storage systems available for every use case
+imaginable, but letting application teams choose storage engines
+independently can lead to duplicated efforts and wheel reinvention. This
+talk will explore how to build a reusable data pipeline based on Kafka
+to support multiple applications, datasets, and use cases including
+archival, warehousing and analytics, stream and batch processing, and
+low-latency &amp;quot;hot&amp;quot; storage.&lt;/p&gt;
+</summary></entry><entry><title>Panel Discussion: Paul Everitt with Guido van Rossum and others</title><link href="http://pyvideo.org/pycon-us-2017/panel-discussion-paul-everitt-with-guido-van-rossum-and-others.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Paul Everitt</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/panel-discussion-paul-everitt-with-guido-van-rossum-and-others.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Paul Everitt, Guido van Rossum&lt;/p&gt;
+&lt;p&gt;Panel Discussion&lt;/p&gt;
+</summary></entry><entry><title>Piecing it Together: A beginner's guide to application configuration</title><link href="http://pyvideo.org/pycon-us-2017/piecing-it-together-a-beginners-guide-to-application-configuration.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Mary Nagle</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/piecing-it-together-a-beginners-guide-to-application-configuration.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Assembling all the necessary setup for an application you’re building
+can often be more frustrating than writing the app itself. Learning to
+do this well is difficult, especially for those who are new to Python
+and might not know where to begin or what questions to ask. While there
+is no “right way” to set up a development environment or application,
+understanding the components involved and how they interact can empower
+you to customize your setup to best suit your needs. This talk will dive
+into what happens when setting up a database, the purpose and
+configuration of an isolated environment, how Python packages are
+installed, and finally, how each of these components interact with each
+other and the application itself; in particular, how an application's
+structure facilitates said interactions.&lt;/p&gt;
+</summary></entry><entry><title>Probabilistic Programming with PyMC3</title><link href="http://pyvideo.org/pycon-us-2017/probabilistic-programming-with-pymc3.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Christopher Fonnesbeck</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/probabilistic-programming-with-pymc3.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bayesian statistics offers robust and flexible methods for data analysis
+that, because they are based on probability models, have the added
+benefit of being readily interpretable by non-statisticians. Until
+recently, however, the implementation of Bayesian models has been
+prohibitively complex for use by most analysts. But, the advent of
+probabilistic programming has served to abstract the complexity of
+Bayesian statistics, making such methods more broadly available. PyMC3
+is a open-source Python module for probabilistic programming that
+implements several modern, computationally-intensive statistical
+algorithms for fitting Bayesian models, including Hamiltonian Monte
+Carlo (HMC) and variational inference. PyMC3’s intuitive syntax is
+helpful for new users, and the reliance on Theano for much of the
+computational work has allowed developers to keep the code base simple,
+making it easy to extend the software to meet analytic needs. PyMC3
+itself extends Python's powerful &amp;quot;scientific stack&amp;quot; of development
+tools, which provide fast and efficient data structures, parallel
+processing, and interfaces for describing statistical models.&lt;/p&gt;
+</summary></entry><entry><title>PSF Community Service Awards</title><link href="http://pyvideo.org/pycon-us-2017/psf-community-service-awards.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Ewa Jodlowska</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/psf-community-service-awards.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PSF Community Service Awards&lt;/p&gt;
+</summary></entry><entry><title>Python in The Serverless Era</title><link href="http://pyvideo.org/pycon-us-2017/python-in-the-serverless-era.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Benny Bauer</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/python-in-the-serverless-era.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Serverless is the latest phase in the evolution of cloud development.
+Its building blocks are functions, a bunch of stateless “nano-services”,
+that can scale automatically and charged only when used. It enables
+teams to focus more on development while having fully managed servers.
+In this talk I'll cover the Serverless Architectures practices, use
+cases, tooling and the role python plays in it.&lt;/p&gt;
+</summary></entry><entry><title>Share Your Code! Python Packaging Without Complication</title><link href="http://pyvideo.org/pycon-us-2017/share-your-code-python-packaging-without-complication.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Dave Forgac</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/share-your-code-python-packaging-without-complication.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you want people to use your code you should package it! You may have
+heard that packaging is hard but the Python packaging ecosystem has
+evolved a lot over the years. Taking your beautiful code and sharing it
+with the world is complex but it doesn't have to be complicated. In this
+talk you will learn how to take advantage of modern tooling and
+practices so you can get boring stuff out of the way, publish quickly
+and frequently, and focus on your code.&lt;/p&gt;
+&lt;p&gt;This talk will cover:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A (brief) history of Python packaging&lt;/li&gt;
+&lt;li&gt;Python Packaging User Guide recommendations&lt;/li&gt;
+&lt;li&gt;Distribution formats&lt;/li&gt;
+&lt;li&gt;Anatomy of a package&lt;/li&gt;
+&lt;li&gt;Automating package creation&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Adding:&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last"&gt;
+&lt;li&gt;Testing&lt;/li&gt;
+&lt;li&gt;CI&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;Testing package installation&lt;/li&gt;
+&lt;li&gt;Releasing to PyPI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is for you if you're new to Python packaging and would like to
+learn how to share you code or if you've worked with Python for a while
+and just aren't up-to-date with the latest packaging practices.&lt;/p&gt;
+</summary></entry><entry><title>The Next Step: Finding Model Parameters With Random Walks</title><link href="http://pyvideo.org/pycon-us-2017/the-next-step-finding-model-parameters-with-random-walks.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Christine Waigl</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/the-next-step-finding-model-parameters-with-random-walks.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The statistician John Tukey -- who designed the box plot and coined the
+term &amp;quot;bit&amp;quot; -- wrote: &amp;quot;An approximate answer to the right problem is
+worth a good deal more than an exact answer to an approximate problem&amp;quot;.
+Python has become one of the major languages for statistical data
+analysis, not least because of the expressiveness of the language itself
+and the availability of tools like Jupyter Notebooks, which enable
+iterative reasoning about a problem and its solutions.&lt;/p&gt;
+&lt;p&gt;This talks takes one step beyond an introduction to statistics with
+Python and aims to familiarize the audience with two concepts: a class
+of problems (so-called inverse problems), and a powerful statistical
+tool (the random walk, or more formally Markov-Chain Monte Carlo (MCMC)
+sampling with the Metropolis algorithm).&lt;/p&gt;
+&lt;p&gt;In inverse problems, model parameters are estimated from observational
+data. Both model and data are expected to be affected by error. The
+objective is not only to find parameters that best describe the
+observations, but also to figure out how good, or how possibly bad, a
+solution might be. Inverse problems are extremely common in many fields
+and crop up each time we attempt to reconstruct a reality from sensor,
+radar, scattering or imaging data.&lt;/p&gt;
+&lt;p&gt;The Metropololis-Hastings algorithm offers a solution via random
+sampling of a Bayesian posterior distribution. Even though listed as one
+of the 20th century's top 10 algorithms by the journal &lt;em&gt;Computing in
+Science &amp;amp; Engineering&lt;/em&gt;, the Metropolis algorithm is easy to understand
+and implement, and a fun and instructive way to explore even complicated
+multi-variate probability distributions.&lt;/p&gt;
+</summary></entry><entry><title>An Introduction to Reinforcement Learning</title><link href="http://pyvideo.org/pycon-us-2017/an-introduction-to-reinforcement-learning.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Jessica Forde</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/an-introduction-to-reinforcement-learning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Reinforcement learning (RL) is a subfield of machine learning focused on
+building agents: software that can robustly achieve a desired objective
+under varying states of the world. This introduction will provide you
+with an overview of RL and tools to build your own agents. In this talk,
+we will provide an overview of terminology in reinforcement learning and
+a Jupyter Notebook outlining basic algorithms to learn 'policies',
+strategies for an agent, and visualize them with numpy, pandas, and
+seaborn. Newer developments in reinforcement learning apply deep
+learning to improve performance. We will further discuss deep
+reinforcement learning and how to use deep learning libraries, such as
+TensorFlow or Theano, with the latest RL libraries: &lt;a class="reference external" href="https://gym.openai.com"&gt;OpenAI
+Gym&lt;/a&gt;, &lt;a class="reference external" href="https://universe.openai.com"&gt;OpenAI
+Universe&lt;/a&gt;, and &lt;a class="reference external" href="https://github.com/deepmind/lab"&gt;DeepMind
+Lab&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Automate AWS With Python</title><link href="http://pyvideo.org/pycon-us-2017/automate-aws-with-python.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Moshe Zadka</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/automate-aws-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;AWS is one of the best-known cloud vendors. Using the Web UI is fine
+when starting out, but automating cloud operations is important. Boto3
+provides a great Pythonic API to AWS, but using it correctly can be
+subtle.&lt;/p&gt;
+&lt;p&gt;The talk will cover how to automate AMI builds, building Cloud Formation
+Templates and automating S3 bucket management.&lt;/p&gt;
+</summary></entry><entry><title>Awesome Command Line Tools</title><link href="http://pyvideo.org/pycon-us-2017/awesome-command-line-tools.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Amjith Ramanujam</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/awesome-command-line-tools.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Designing a good command line tool is challenging. Command line tools
+look archaic compared to modern graphical interfaces, discoverability is
+a big issue for command line tools, proactive help is hard to implement.
+This talk will cover a set of specific techniques to help alleviate
+those challenges.&lt;/p&gt;
+&lt;p&gt;How did &lt;a class="reference external" href="http://pgcli.com"&gt;pgcli&lt;/a&gt; and &lt;a class="reference external" href="http://mycli.net"&gt;mycli&lt;/a&gt;
+overcome these problems? We will cover specific examples where command
+line apps shine. The examples will be drawn from pgcli, mycli and
+&lt;a class="reference external" href="http://bpython-interpreter.org/"&gt;bpython&lt;/a&gt;. This talk will suggest
+libraries and show how they can help you implement a wonderful command
+line interface.&lt;/p&gt;
+&lt;p&gt;The libraries covered in this talk include
+&lt;a class="reference external" href="https://github.com/jonathanslenders/python-prompt-toolkit"&gt;python-prompt-toolkit&lt;/a&gt;,
+&lt;a class="reference external" href="http://pygments.org/"&gt;pygments&lt;/a&gt;,
+&lt;a class="reference external" href="http://click.pocoo.org/"&gt;click&lt;/a&gt;,
+&lt;a class="reference external" href="https://github.com/amjith/fuzzyfinder"&gt;fuzzyfind&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal of the talk is to distil the ideas that exist in successful
+command line applications as guidelines for building powerful command
+line applications.&lt;/p&gt;
+</summary></entry><entry><title>Cython as a Game Changer for Efficiency</title><link href="http://pyvideo.org/pycon-us-2017/cython-as-a-game-changer-for-efficiency.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Alex Orlov</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/cython-as-a-game-changer-for-efficiency.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Are you running a Web application? Do you suffer from CPU bottlenecks
+that slow down your growth? There's a tool that can easily fix all that,
+and then some. C++ knowledge not required.&lt;/p&gt;
+&lt;p&gt;Come learn how Instagram, the world's largest Django deployment with
+more than 600M active users, saved ~30% of global CPU by rewriting a
+handful of modules on the critical path in Cython. Learn to apply those
+techniques to your own projects with little effort and stop worrying
+about switching to other programming languages or rewriting stable
+components in C++.&lt;/p&gt;
+</summary></entry><entry><title>Debugging in Python 3.6: Better, Faster, Stronger</title><link href="http://pyvideo.org/pycon-us-2017/debugging-in-python-36-better-faster-stronger.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Elizaveta Shashkova</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/debugging-in-python-36-better-faster-stronger.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Python 3.6 was released in December of 2016 and it has a lot of new
+cool features. Some of them are quite easy for using: a developer can
+read, for example, about f-strings and they can start using them in
+their programs as soon as possible. But sometimes features are not so
+evident, and a new frame evaluation API is one of them.&lt;/div&gt;
+&lt;div class="line"&gt;The new frame evaluation API was introduced to CPython in PEP 523 and
+it allows to specify a per-interpreter function pointer to handle the
+evaluation of frames. It might not be evident how to use this new
+feature in everyday life, but it’s quite easy to understand how to
+build a fast debugger based on it.&lt;/div&gt;
+&lt;div class="line"&gt;In this talk we are going to explain how standard way of debugging in
+Python works and how a new frame evaluation API may be useful for
+creating the fast debugger. Also we will consider why such fast
+debugging was not possible in the previous versions of Python. If
+someone hasn’t made a final decision to move to Python 3.6 this talk
+will provide some new reasons to do it.&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Decorators, unwrapped: How do they work?</title><link href="http://pyvideo.org/pycon-us-2017/decorators-unwrapped-how-do-they-work.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Katie Silverio</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/decorators-unwrapped-how-do-they-work.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Decorators are a syntactically-pleasing way of modifying the behavior of
+functions in Python. However, they can be highly opaque to Python
+beginners. It took me a while to learn how to write one, and even after
+I was confident writing my own decorators, felt like they were magical.
+The goal of this talk is to demystify decorators by methodically
+stepping through how and why they work. Along the way we'll touch on
+closures, scopes, and how Python is compiled.&lt;/p&gt;
+</summary></entry><entry><title>Designing secure APIs with state machines</title><link href="http://pyvideo.org/pycon-us-2017/designing-secure-apis-with-state-machines.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Ashwini Oruganti</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/designing-secure-apis-with-state-machines.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Did you ever need to create an application whose behavior varies with
+its state, while still presenting a consistent interface to its callers?
+A good, layered design using state machines can help avoid the tedious
+'if' checks for flags, and ensure that if your code runs at all, it will
+run with all the required values initialized. I will demonstrate this
+with examples, and talk about some available tools and libraries to
+build state machines in Python.&lt;/p&gt;
+&lt;p&gt;I will also discuss how to effectively use the process of threat
+modeling to build secure web applications. Threat modeling is a computer
+security technique that helps you better understand the systems you
+create, identify attacks, and build defenses. I will talk about things
+that we, as software developers, can do to assess the security of our
+applications in the real world through this process.&lt;/p&gt;
+</summary></entry><entry><title>Ending Py2Py3 compatibility in a user friendly manner PyCon 2017</title><link href="http://pyvideo.org/pycon-us-2017/ending-py2py3-compatibility-in-a-user-friendly-manner-pycon-2017.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Matthias Bussonnier</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/ending-py2py3-compatibility-in-a-user-friendly-manner-pycon-2017.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Four shalt thou not count, neither count thou two, excepting that
+thou then proceed to three.&amp;quot;&lt;/p&gt;
+&lt;blockquote&gt;
+Monty Python and the Holy Grail; Scene 33&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Python 3 has been around for more than eight years, and much of the
+Python ecosystem is now available both on Python 2 and Python 3, often
+using a single code base. Nonetheless, this compatibility comes at a
+development cost and some library authors are considering ending support
+for Python 2 . These once-python-2-compatible libraries are at risk of
+being upgraded on non compatible system and cause user (and developer)
+frustration.&lt;/p&gt;
+&lt;p&gt;While it may seem simple to cease support for Python 2, the challenge is
+not in ending support, but doing so in a way that does not wreak havoc
+for users who stay on Python 2. And that is not only a communications
+problem, but a technical one : up until recently, it was impossible to
+tag a release as Python 3 only; today it is possible.&lt;/p&gt;
+&lt;p&gt;Like any maintainer of a widely used library, we want to ensure that
+users continue to use Python 2 continue to have functioning libraries,
+even after development proceeds in a way that does not support Python 2.&lt;/p&gt;
+&lt;p&gt;One approach is to ensure easy installation of older versions if
+possible avoid incompatible versions altogether. Users should not need
+to manually pin maximal version dependencies across their development
+environments and projects if all they want is to use the latest versions
+of libraries that are compatible with their system.&lt;/p&gt;
+&lt;p&gt;Even if we did expect that of users, consider what would happen when a
+package they rely on converts to be only Python 3 compatible. If they
+were not tracking the complete dependency tree, they might discover, on
+upgrade, that their projects no longer work. To avert this they would
+need to pin those at the last version compatible with Python 2. Users
+that want to use older python versions should not have to go through so
+much anguish to do so.&lt;/p&gt;
+&lt;p&gt;In order to solve this problem, and thereby make both users' and
+maintainers' lives easier, we ventured into the rabbit-hole called
+Packaging.&lt;/p&gt;
+&lt;p&gt;Though we set off with a singular quest, our tale roves through many
+lands. We'll narrate the story of our amending PEPs, our efforts in
+building the ramparts of the pypa/Warehouse Castle, battles with the
+dragons of Pip, and errands in the &amp;quot;land of no unit tests&amp;quot; otherwise
+known as PyPI legacy.&lt;/p&gt;
+&lt;p&gt;By the end of the above tale, the audience members will know the road to
+Python 3 only libraries had once had hazards that are now easily
+avoidable. So long as users upgrade their package management tools.&lt;/p&gt;
+</summary></entry><entry><title>Executing python functions in the linux kernel by transpiling to bpf</title><link href="http://pyvideo.org/pycon-us-2017/executing-python-functions-in-the-linux-kernel-by-transpiling-to-bpf.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Alex Gartrell</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/executing-python-functions-in-the-linux-kernel-by-transpiling-to-bpf.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;tt class="docutils literal"&gt;ebpf&lt;/tt&gt; is a linux kernel byte-code which can be used for functionality
+ranging from tracing system calls with kprobe to routing packets with
+tc. This talk is about a pure-python front-end for ebpf that allows
+users to write simple python functions to be executed in the kernel.
+I'll first explain how this was made to work and then I'll show off some
+of the features/capabilities of this approach with working examples.&lt;/p&gt;
+</summary></entry><entry><title>Exploring Network Programmability with Python and YANG</title><link href="http://pyvideo.org/pycon-us-2017/exploring-network-programmability-with-python-and-yang.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Lisa N Roach</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/exploring-network-programmability-with-python-and-yang.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Recently, networking vendors and Silicon Valley giants have been putting
+forth a concerted effort to build standardized models for networking
+devices. These models allow for building reusable and versatile scripts
+with predictable, standardized data. Without such models, the wide
+variety of inputs and outputs required by different devices and vendors
+made scripting a tedious and challenging endeavor. The modeling language
+in use is called YANG, and a variety of standards have emerged. A vendor
+agnostic standard called OpenConfig has lately become stable enough to
+begin programming devices with it. Using Python, YANG is surprisingly
+easy to work with, and extremely powerful applications can be written
+with basic knowledge of JSON or XML and RPCs.&lt;/p&gt;
+&lt;p&gt;The talk will start with use-cases for programming networking devices,
+and will detail a specific, trivial, use case that will be used in the
+talk. Next, we will discuss the ‘legacy’ way of programming devices (SSH
+and screenscraping), and highlight the challenges, such as complex
+regular expressions, slow responses, and lack of reusability between
+devices. From there we will dive into YANG, focusing on OpenConfig
+models. A YANG model is essentially a template, and JSON or XML can be
+mapped to the YANG template. This makes it perfect for Pythonic
+manipulation. In the use case there will be a GET RPC returning a YANG
+representation of the box’s state in JSON, which we will search for the
+relevant health indicator by drilling down in the JSON dictionary. A
+simple change to the dictionary will remediate the problem, and a PATCH
+RPC merges the new configuration onto the box. Since open, standard
+models are in use, this script could be run on many devices across a
+network to achieve the same effect with no changes needed. We will
+finish up with the pros and cons of YANG before opening the talk for
+Q&amp;amp;A.&lt;/p&gt;
+</summary></entry><entry><title>Fuzzy Search Algorithms: How and When to Use Them</title><link href="http://pyvideo.org/pycon-us-2017/fuzzy-search-algorithms-how-and-when-to-use-them.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Jiaqi Liu</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/fuzzy-search-algorithms-how-and-when-to-use-them.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Fuzzy Searching or approximate string matching is powerful because often
+text data is messy. For example, shorthand and abbreviated text are
+common in various data sets. In addition, outputs from OCR or voice to
+text conversions tend to be messy or imperfect. Thus, we want to be able
+to make the most of our data by extrapolating as much information as
+possible.&lt;/p&gt;
+&lt;p&gt;In this talk, we will explore the various approaches used in fuzzy
+string matching and demonstrate how they can be used as a feature in a
+model or a component in your python code. We will dive deep into the
+approaches of different algorithms such as Soundex, Trigram/n-gram
+search, and Levenshtein distances and what the best use cases are. We
+will also discuss situations where it’s important to take into account
+the meaning or intent of a word and demonstrate approaches for measuring
+semantic similarity using nltk and word2vec. Furthermore, we will
+demonstrate via live coding how to implement some of these fuzzy search
+algorithms using python and/or built-in fuzzy search functions within
+PostgreSQL.&lt;/p&gt;
+</summary></entry><entry><title>How documentation works, and how to make it work for your project</title><link href="http://pyvideo.org/pycon-us-2017/how-documentation-works-and-how-to-make-it-work-for-your-project.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/how-documentation-works-and-how-to-make-it-work-for-your-project.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Nearly everyone (especially in the Python community) agrees that good
+documentation is important to the success of software projects, and yet
+very few projects actually have good documentation.&lt;/p&gt;
+&lt;p&gt;Often, it's &lt;em&gt;not for want of effort&lt;/em&gt; - the project's developers have
+worked hard on it - &lt;em&gt;nor for lack of documentation&lt;/em&gt; - the authors have
+produced a lot of it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It simply turns out to be not very good&lt;/em&gt; - not helpful enough for the
+users who should be able to rely on it, and a depressing chore for the
+authors who have to maintain it.&lt;/p&gt;
+&lt;p&gt;The good news is that both these problems can be solved by understanding
+&lt;em&gt;how documentation works&lt;/em&gt;, and what its different functions are.
+Structuring documentation according to those distinct functions helps
+ensure that each of them is adequately served. It also makes it far
+easier to write and maintain.&lt;/p&gt;
+&lt;p&gt;Using real-life examples I'll draw out the key functions of
+documentation, and how they map onto different ways of writing it.
+Putting this into practice is simple when armed with some basic
+guidelines. The benefits are huge, and available with a minimum of
+effort.&lt;/p&gt;
+&lt;p&gt;I won't be discussing documentation tools or software or other topics
+that have been covered amply elsewhere, but some neglected aspects of
+software documentation that &lt;strong&gt;will make your software projects more
+successful&lt;/strong&gt;.&lt;/p&gt;
+</summary></entry><entry><title>How to make a good library API</title><link href="http://pyvideo.org/pycon-us-2017/how-to-make-a-good-library-api.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Flávio Juvenal</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/how-to-make-a-good-library-api.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;It's not easy to write libraries with great APIs. We're aware of that.
+However, it's not always clear how we can follow abstract ideals like
+elegance, simplicity, and extensibility to improve our APIs. That's why
+in this talk we'll discuss good and bad APIs with real-world examples.
+For each thing learned, we'll come up with a checklist to help us with
+practical advice for writing good APIs.&lt;/p&gt;
+</summary></entry><entry><title>How to write a Python transpiler</title><link href="http://pyvideo.org/pycon-us-2017/how-to-write-a-python-transpiler.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Dr. Russell Keith-Magee</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/how-to-write-a-python-transpiler.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We all know Python is a powerful and expressive programming language.
+What you may not know is how much of the internals of Python itself is
+exposed for you to use and manipulate.&lt;/p&gt;
+&lt;p&gt;In this talk, you'll be introduced to the tools and libraries Python
+provides to manipulate the compilation and execution of Python code. You
+will also see how you can use those tools to target execution
+environments other than the CPython virtual machine.&lt;/p&gt;
+</summary></entry><entry><title>Human-Machine Collaboration for Improved Analytical Processes</title><link href="http://pyvideo.org/pycon-us-2017/human-machine-collaboration-for-improved-analytical-processes.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Tony Ojeda</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/human-machine-collaboration-for-improved-analytical-processes.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Over the last several years, Python developers interested in data
+science and analytics have acquired a variety of tools and libraries
+that aim to facilitate analytical processes. Libraries such as Pandas,
+Statsmodels, Scikit-learn, Matplotlib, Seaborn, and Yellowbrick have
+made tasks such as data wrangling, statistical modeling, machine
+learning, and data visualization much quicker and easier. They have
+accomplished this by automating and abstracting away some of the more
+tedious, repetitive processes involved with analyzing and modeling data.&lt;/p&gt;
+&lt;p&gt;Over the next few years, we are sure to witness the introduction of new
+tools that are increasingly intelligent and have the ability to automate
+more complex analytical processes. However, as we begin using these
+tools (and developing new ones), we should strongly consider the level
+of automation that is most appropriate for each case. Some analytical
+processes are technically difficult to automate, and therefore require
+large degrees of human steering. Others are relatively easy to automate
+but perhaps should not be due to the unpredictability of results or
+outputs requiring a level of compassionate decision-making that machines
+simply don’t possess. Such processes would benefit greatly from the
+collaboration between automated machine tasks and uniquely human ones.
+After all, it is often systems that utilize a combination of both human
+and machine intelligence that achieve better results than either could
+on their own.&lt;/p&gt;
+&lt;p&gt;In this talk, we will discuss human-machine collaboration as it applies
+to analyzing data with Python. We will review a framework for
+exploratory data analysis with the goal of identifying which tasks
+should be automated, which tasks should not, and which tasks would
+benefit from a more interactive, symbiotic, and collaborative process
+between the human and the machine. We will explore Python libraries that
+we can use to build tools that allow us to perform different types of
+analysis. We’ll also introduce the Cultivar project, an example of a
+hybrid analytics tool that combines a Django framework with Javascript
+visualizations and Celery for task management to facilitate more
+efficient and effective human-machine systems for data analysis.&lt;/p&gt;
+</summary></entry><entry><title>It's time for datetime</title><link href="http://pyvideo.org/pycon-us-2017/its-time-for-datetime.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Mario Corchero</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/its-time-for-datetime.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Working with time is not a trivial challenge. Python includes a native
+module in the standard library to work with it but datetime keeps being
+together with unicode a common source of errors. This often leads to the
+widespread of many other libraries in the attempt of easing the work of
+working with datetime. Datetime is one of those API that looks easy to
+use but given the many concepts around time, is it easy to get backfired
+if the developer has not solid knowledge about the them.&lt;/p&gt;
+&lt;p&gt;In this talk we will overview the main concepts about timestamps
+represented through datetime objects, the limitations on the standard
+library and some simple steps to try to avoid the common mistakes that
+everyone can fall into.&lt;/p&gt;
+&lt;p&gt;Naive datetimes (which the datetime API works by default with) are a
+great tool to represent calendar times, but when talking about
+timestamps (focus of this talk) timezones is n essential part of it and
+the datetime module can be tricky to use for that use cases.&lt;/p&gt;
+&lt;p&gt;We will also speak about different standards of time, time zones,
+Daylight Saving Times, leap seconds, serialization and datetime
+arithmetics.&lt;/p&gt;
+&lt;p&gt;The talk will be focused on giving the foundations that everyone knows
+to be able to understand and work efficiently and without making painful
+mistakes when dealing with time related algorithms.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Do It For Science</title><link href="http://pyvideo.org/pycon-us-2017/keynote-do-it-for-science.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Katy Huff</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/keynote-do-it-for-science.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Saturday morning keynote by Katy Huff&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Python@Instragram</title><link href="http://pyvideo.org/pycon-us-2017/keynote-pythoninstragram.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Lisa Guo</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/keynote-pythoninstragram.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Saturday morning keynote by Lisa Guo &amp;amp; Hui Ding&lt;/p&gt;
+</summary></entry></feed>
